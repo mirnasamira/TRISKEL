@@ -1,7 +1,2 @@
-Cambio1
-Cambio2
-Cambio3
-Rama2-Cambio2
-Cambio4
 Basado en cambio 4: Rama3-Cambio1
 Rama3-Cambio2
